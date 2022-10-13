@@ -110,10 +110,11 @@
 
 <p>
     <a href="https://github.com/Nk5196/dizzy-stove-3148">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nk5196&repo=Jio-Mart-Clone-&locale=en&border_radius=0&theme=dark" alt="Nk5196" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nk5196&repo=dizzy-stove-3148
+&locale=en&border_radius=0&theme=dark" alt="Nk5196" />
     </a>
     <a href="https://github.com/sarb908/ShopBop">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarb908&repo=InstaCart-Clone&locale=en&border_radius=0&theme=dark" alt="sarb908" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarb908&repo=ShopBop&locale=en&border_radius=0&theme=dark" alt="sarb908" />
     </a>     
     </p>
 - ⚡ Fun fact: ...
