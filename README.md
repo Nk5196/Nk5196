@@ -62,14 +62,14 @@
 
 
 <p align="left">
-    <a href="https://github.com/faizanghani2222/Jio-Mart-Clone-" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jio-Mart Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Jio-Mart-Clone" />
+    <a href="https://github.com/Nk5196/dizzy-stove-3148" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Expedia Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Jio-Mart-Clone" />
     </a>
-    <a href="https://github.com/itsme-brijeshrai/InstaCart-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=InstaCart Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="InstaCart-Store" />
+    <a href="https://github.com/sarb908/ShopBop" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shopbop Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Shopbop" />
     </a>
-    <a href="https://github.com/Rahul7874/Bewakoof.com-clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bewkoof Clone&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Bewkoof-clone" />
+    <a href="https://github.com/akashbhadouria/Relianc-Digital" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Reliancedigital Clone&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="reliance clone" />
     </a>
 </p>
 <br>
@@ -79,17 +79,17 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/rahul-pawar-8138641a7/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/rahul-pawar-8138641a7/" />
+    <a href="https://www.linkedin.com/in/narendra-kandalkar-161b55170/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/narendra-kandalkar-161b55170/" />
     </a>
-    <a href="https://twitter.com/RahulPa65623765?t=7fngqlk_A_ja0OJHc1npnA&s=08">
+    <a href="https://help.twitter.com/en/forms/account-access/regain-access">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" althttps://twitter.com/RahulPa65623765?t=7fngqlk_A_ja0OJHc1npnA&s=08" />
     </a>
-    <a href="https://rahul7874.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://rahul7874.github.io/" />
+    <a href="https://github.com/Nk5196/Nk5196.github.io">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://github.com/Nk5196/Nk5196.github.io" />
     </a>
-    <a title="rp158835@gmail.com" href="mailto:rp158835@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rp158835@gmail.com" />
+    <a title="narendrakandalkar@gmail.com" href="mailto:narendrakandalkar@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="narendrakandalkar@gmail.com" />
     </a>
 </p>
 <br>
@@ -100,8 +100,8 @@
   <h2><i>My GitHub Stats</i></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nk5196&label=Profile%20views&color=0e75b6&style=flat" alt="Nk5196" /> </p>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nk5196&show_icons=true&locale=en&theme=dark" alt="rahul7874"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nk5196&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="rahul7874" height="139" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nk5196&show_icons=true&locale=en&theme=dark" alt="Nk5196"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nk5196&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Nk5196" height="139" />
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=Nk5196&theme=xcode" height ="307"/>                                                                                                                                                 
                                                                                                                                                    
