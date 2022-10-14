@@ -109,9 +109,8 @@
 
 
 <p>
-    <a href="https://github.com/akashbhadouria/Relianc-Digital">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashbhadouria&repo=Relianc-Digital
-&locale=en&border_radius=0&theme=dark" alt="Nk5196" />
+    <a href="https://github.com/Nk5196/dizzy-stove-3148">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nk5196&repo=dizzy-stove-3148&locale=en&border_radius=0&theme=dark" alt="Nk5196" />
     </a>
     <a href="https://github.com/sarb908/ShopBop">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarb908&repo=ShopBop&locale=en&border_radius=0&theme=dark" alt="sarb908" />
