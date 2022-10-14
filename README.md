@@ -116,5 +116,4 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarb908&repo=ShopBop&locale=en&border_radius=0&theme=dark" alt="sarb908" />
     </a>     
     </p>
-- ⚡ Fun fact: ...
--->
+
