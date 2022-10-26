@@ -1,3 +1,6 @@
+![logo](https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
+
+
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
     Hi
@@ -94,9 +97,6 @@
 </p>
 <br>
 
-<!----------------------------------- GitHub Streak Section ------------------------------------>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nk5196&" alt="nk5196" /></p>
 
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
@@ -106,10 +106,23 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nk5196&show_icons=true&locale=en&theme=dark" alt="Nk5196"  height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nk5196&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Nk5196" height="139" />
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Nk5196&theme=xcode" height ="307"/>                                                                                                                                                 
-                                                                                                                                                   
+<img src="https://activity-graph.herokuapp.com/graph?username=Nk5196&theme=xcode" height ="307"/>                                                                         
+                                                                                               
+<!----------------------------------- GitHub Streak Section ------------------------------------>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nk5196&" alt="Nk5196" /></p>
+                
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nk5196" alt="nk5196" /></a> </p>                                                                                                       
+                                                                                                        
+                                                                                                        
+                                                                                                        
  <h2><i>Top Repositories</i></h2>
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <p>
     <a href="https://github.com/akashbhadouria/Relianc-Digital">
