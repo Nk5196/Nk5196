@@ -94,6 +94,9 @@
 </p>
 <br>
 
+<!----------------------------------- GitHub Streak Section ------------------------------------>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nk5196&" alt="nk5196" /></p>
 
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
